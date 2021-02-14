@@ -17,6 +17,7 @@ public class AddUser extends JDialog implements ActionListener {
 	private static final long serialVersionUID = 1L;
 	
 	private boolean isAdded;
+
 	
 	private JButton btnAdd = new JButton("Add");
 	private JButton btnCancel = new JButton("Cancel");
